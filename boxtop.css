@@ -1,0 +1,186 @@
+.boxtop{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+
+
+
+.boxtop_tren{
+	width: 100%;
+	height: 50px;
+	background: black;
+}
+.boxtop_tren .biltrai{
+	float: left;
+	width: 45%;
+	height: 50px;
+}
+.biltrai .bit1{
+	float: left;
+	width: 24%;
+	height: 50;
+}
+.bit1 .pic1{
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 15px 0px 15px 10px;
+}
+.bit1 h1.h1{
+	text-transform: capitalize;
+    float: left;
+    font-size: 15px;
+    color: white;
+    line-height: 2;
+}
+.bit1 .pic2{
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 15px 0px 15px 0px;
+}
+.biltrai .bit2{
+	float: left;
+	width: 12%;
+	height: 50;
+	margin: 0px 0px 0px 10px;
+}
+.bit2 h1.h2{
+	text-transform: capitalize;
+    float: left;
+    font-size: 15px;
+    color: white;
+	line-height: 2;
+}
+.biltrai .line1{
+	width: 1px;
+	height: 80%;
+	float: left;
+	background: white;
+	margin: 10px 0px 10px 0px;
+}
+.biltrai .bit3{
+	float: left;
+	width: 12%;
+	height: 50;
+	margin: 0px 0px 0px 10px;
+}
+.bit3 h1.h3{
+	text-transform: capitalize;
+    float: left;
+    font-size: 15px;
+    color: white;
+	line-height: 2;
+}
+.biltrai .bit4{
+	float: left;
+	width: 24%;
+	height: 50;
+	margin: 0px 0px 0px 10px;
+}
+.bit4 .pic3{
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin: 15px 0px 15px 0px;
+}
+.bit4 h1.h5{
+	float: left;
+	font-size: 12px;
+	color: white;
+	margin:15px 0px 15px 0px;
+}
+.boxtop_tren .bliphai{
+	height:50px;
+	width: 53%;
+	float: left;
+}
+.bliphai ul.ul1{
+	float: left;
+	width: 50%;
+	height: 50px;
+}
+li.li{
+	float: left;
+}
+a.a1{
+	text-transform: capitalize;
+	text-align: center;
+	font-size:17px;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0px 10px 0px 10px;
+}
+.bliphai .bitr{
+	float: left;
+	width: 39%;
+	height: 50px;
+}
+.bitr img{
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin: 15px 0px 0px 0px;
+}
+
+
+
+
+.boxtop_duoi{
+	width: 100%;
+	height: 100px;
+	background: white;
+}
+
+h1.h4{
+	float: left;
+	color: yellow;
+	font-size: 30px;
+	width: 40%;
+	height: 100px;
+	line-height: 100px;
+	margin: 0;
+	font-family: arial;
+}
+ul.ul2{
+	list-style-type: none;
+	text-decoration: none;
+	width: 50%;
+	float: right;
+	height: 100px;
+	margin: 20px 0px 20px 0px;
+}
+li.l2{
+	float: left;
+	margin: 0px 5px 0px 5px;
+}
+a.a2{
+	color: black;
+	margin-left: 10px;
+	float: left;
+	width: 13%;
+	height:50px;
+	background: white;
+	line-height: 50px;
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	text-transform: capitalize;
+}
+a.a3{
+	font-weight: 600;
+	color: yellow;
+	margin-left: 10px;
+	float: left;
+	width: 13%;
+	height:50px;
+	background: white;
+	line-height: 50px;
+	font-family: arial;
+	font-size: 19px;
+	text-align: center;
+	text-transform: capitalize;
+	list-style-type: none;
+}

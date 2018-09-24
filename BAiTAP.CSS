@@ -1,0 +1,59 @@
+.Khung{
+	margin: 0 auto;
+	background: red;
+	width: 1200px;
+	height: 600px;
+}
+.Box_Toai img{
+	float: left;
+	width: 1200px;
+	height: 400px;
+}
+.Box_Toai .left {
+  width: 600px;
+  height: 200px;
+  float: left;
+  margin-top: -354px;
+
+}
+.Box_Toai .left .h3{
+    width: 300px;
+    height: 127px;
+    float: left;
+    margin-left: 207px;
+}
+.Box_Toai .left h2{
+	float: left;
+	line-height: 0px;
+	width: 92px;
+
+	
+}
+.Box_Toai .left h3{
+	padding: 0px;
+    margin-top: 7px;
+    font-size: 24px;
+}
+.Box_Toai .left a{
+    width: 100px;
+    height: 41px;
+    float: left;
+    background: #CCC;
+    line-height: 41px;
+    text-align: center;
+    border-radius: 7px;
+}
+.Box_Toai .right {
+  width: 600px;
+  height: 200px;
+  float: right;
+  margin-top: -354px;
+
+}
+.Box_Toai .right  img{
+width: 300px;
+    height: 192px;
+    margin-top: 6px;
+
+
+}
