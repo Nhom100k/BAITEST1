@@ -509,3 +509,77 @@ img{
 	text-decoration: none;
 	color: white;
 }
+.boxbut{
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+}
+.boxbut .bilbutimg{
+	float: left;
+	width: 50%;
+	height:100%;
+}
+.bilbutimg img{
+	width: 100%;
+	height:400px;
+}
+.bilright {
+	float: left;
+	width: 48%;
+	margin-left: 2%;
+	height:100%;
+}
+.bilright h1.the{
+	float: left;
+	text-transform: uppercase;
+	font-size: 26px;
+	font-family:arial;
+	margin-top: 50px;
+}
+.bilright p.but{
+	clear: both;
+	float: left;
+	margin-top: 15px;
+	font-size: 17px;
+	font-family: arial;
+
+}
+.bilright p.but2{
+	width: 90%;
+	clear: both;
+	float: left;
+	margin-top:5px;
+	font-size: 14px;
+	font-family: arial;
+
+}
+.bilright a.but{
+	float: left;
+	width: 140px;
+	height:50px;
+	background: #ffe01e;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 50px;
+	text-align: center;
+	font-family: arial;
+	text-transform: uppercase;
+	border-radius: 4px;
+	color: white;
+}
+.boxuda{
+	width: 1000px;
+	margin: 0 auto;
+	height:50px;
+	background: #3a3a38;
+}
+.boxuda p.hdl{
+	font-size: 17px;
+	margin:0;
+	font-family: arial;
+	line-height: 50px;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+}
