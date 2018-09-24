@@ -10,7 +10,6 @@
 }
 
 
-
 .boxtop_tren{
 	width: 100%;
 	height: 50px;
@@ -130,6 +129,109 @@ a.a1{
 	margin: 15px 0px 0px 0px;
 }
 
+.BoxAnhGioiThieu
+{
+	margin: 0 auto;
+	float: left;
+	width: 1000px;
+	height: 400px;
+	background: #ffff;
+}
+.BoxAnhTheChen
+{
+	margin:auto;
+	float: left;
+	width: 1000px;
+	height: 400px;
+	background: #ffff;
+}
+.BilAnh
+{
+	margin: auto;
+	float: left;
+	width: 100%;
+	height: 50%;
+	background:#ffff;
+	
+}
+.BitAnh1
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+	background: #ffff;
+}
+.BitAnh2
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+	background: #ffff;
+}
+.BitAnh3
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 0%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+	background: #ffff;
+	margin-left: 1%;
+}
+.BilTheChen
+{
+	margin: auto;
+	float: left;
+	width: 100%;
+	height: 50%;
+	background: #ffff;
+	
+}
+.BitTheChen1
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 1%;
+
+	
+	background: #ffff;
+}
+.BitTheChen2
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 1%;
+	
+
+	background: #ffff;
+}
+.BitTheChen3
+{
+	margin: auto;
+	float: left;
+	width: 32%;
+	height: 99%;
+	margin-left: 1%;
+
+	
+	background:#ffff;
+}
+
+
 
 
 
@@ -189,3 +291,98 @@ a.a3{
 	text-transform: capitalize;
 	list-style-type: none;
 }
+.khungthuy{
+	width: 1000px;
+	height: 750px;
+	margin: 0 auto;
+	background: gray;
+
+}
+.khungthuy .khung1{
+	float: left;
+	width: 100%;
+	height: 400px;
+	background: black;
+	margin: 0 auto;
+
+}
+.khungthuy .khung2{
+	float: left;
+	width: 100%;
+	height: 350px;
+	background: ;
+	margin: 0 auto;
+}.khungthuy .khung1 .box1{
+	float: left;
+	margin: 0 auto;
+	width: 60%;
+	height:100%;
+	background: black;
+}
+.khungthuy .khung1 .box1 h3{
+	padding-top: 15px;
+	padding-left: 6px;
+	width: 99%;
+	height: 100px;
+
+	color: white;
+	text-align: justify;
+	text-transform: uppercase;
+	
+	font-size: 25px;
+}
+.khungthuy .khung1 .box1 p{
+	padding-left: 6px;
+	padding-top: 10px;
+ padding-bottom: 40px;
+	
+	color: white;
+	text-align: justify;
+	font-size: 20px;
+
+}
+.khung1 .hinhanh{
+	float: left;
+	width: 40%;
+	height: 100%;
+	margin: 0 ;
+
+}
+.khung1 .hinhanh img{
+	width: 100%;
+	height: 100%;
+	margin: 0 ;
+}
+.box1 a{
+	padding-left: 6px;
+	width: 50px;
+	background: yellow;
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+}
+.box1 a:hover
+{
+	background: red;
+	color: green;
+}
+.khung2 .boxchuanh{
+	float: left;
+	width: 25%;
+	height: 100%;
+	margin: 0;
+	background: white;
+}
+.boxchuanh img{
+	padding-top: 40px;
+	width: 100%;
+	height: 60%;
+	margin: 0;
+}
+.boxchuanh h2{
+	
+	width: 100%;
+	height: 40%;
+	text-align: center;
+	color: red;
+} 
