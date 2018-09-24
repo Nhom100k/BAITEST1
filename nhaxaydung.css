@@ -439,3 +439,73 @@ img{
 	width: 385px;
 	height:100%;
 }
+.khung8 {
+	clear: left;
+	margin: 0 auto;
+	width: 1000px;
+	height: 400px;
+	background: black;
+}
+.khung8 img{
+	float: left;
+	width: 100%;
+	height: 100%;
+	opacity: 0.2;
+}
+.khung8 .boxtop{
+	float: left;
+	margin-top: -404px;
+	width: 100%;
+	height: 40%;
+}
+.boxtop h2{
+    text-transform: uppercase;
+	color: white;
+	font-size: 40px;
+}
+.boxtop p{
+	float: left;
+	color: white;
+	font-size: 17px;
+	margin: 0 100px;   	
+}
+.khung8 .boxbottom{
+	float: left;
+	margin-top: -244px;
+	width: 100%;
+	height: 60%;
+}
+.boxbottom .boxtron{
+	margin: 30px;
+	float: left;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	border:5px solid white;
+}
+.boxtron h3{
+	color: white;
+	font-size: 30px;
+	color: white;
+    font-size: 60px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.boxbottom .line{
+	 float: left;
+	 width: 100px;
+	 height: 100px;
+}
+.line p{
+	margin-top: 65px;
+	float: left;
+	font-size: 30px;
+	color: white;
+}
+.boxtron a{
+	margin: 0;
+	float: left;
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+}
